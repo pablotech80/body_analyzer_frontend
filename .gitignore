@@ -5,3 +5,5 @@ body_analyzer_frontend/__pycache__/
 components/__pycache__/
 state/__pycache__/
 
+.idea/
+
